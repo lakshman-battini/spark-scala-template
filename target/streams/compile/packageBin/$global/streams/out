@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Lakshman_projects\spark-scala-template\target\scala-2.11\spark-scala-template_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lbattini\spark\Spark_wordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\com\lbattini\spark\Spark_wordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lbattini\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\com\lbattini\spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lbattini\spark\Spark_wordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\com\lbattini\spark\Spark_wordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lines.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\lines.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\lbattini[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Lakshman_projects\spark-scala-template\target\scala-2.11\classes\com\lbattini[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

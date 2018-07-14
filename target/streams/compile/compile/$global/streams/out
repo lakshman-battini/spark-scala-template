@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Lakshman_projects\spark-scala-template\src\main\scala\com\lbattini\spark\Spark_wordcount.scala:21:68: identifier expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m                val wordsDF = linesDF.select(explode(split(linesDF["value"], " ")).as("word"))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Lakshman_projects\spark-scala-template\src\main\scala\com\lbattini\spark\Spark_wordcount.scala:25:4: ']' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m			}[0m
+[0m[[0m[31merror[0m] [0m[0m			^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
