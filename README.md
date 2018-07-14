@@ -1,5 +1,4 @@
 # Spark-scala-template
-===============
 
 This project is a Template project on Apache Spark using Scala build with SBT. It includes the simple Word Count example using DataFrame API.
 
